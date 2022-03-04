@@ -5,6 +5,20 @@
  <p align="center"> https://www.linkedin.com/in/felipekjr/</p>
 </p>
 
+```dart
+class Felipe {
+  String name = 'Felipe Rodrigues';
+  String birth = '26th-november';
+  
+  List<String> skills = ['Flutter'];
+  List<String> languages = ['Dart'];
+  
+  Map<String, String> contact = {
+    'linkedin': '@felipekjr',
+  };
+}
+```
+
 ## Hello, there
 
 I’m a Mobile Software Engineer who helps to solve market challenges since 2017, currently focused on building innovative apps with Flutter. Skills in UI/UX, SCRUM, Squad Leadership and etc.
