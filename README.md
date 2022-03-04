@@ -22,10 +22,6 @@ class Felipe {
 
 I’m a Mobile Software Engineer who helps to solve market challenges since 2017, currently focused on building innovative apps with Flutter. Skills in UI/UX, SCRUM, Squad Leadership and etc.
 
-## Hot flutter repos
-[![repo](https://github-readme-stats.vercel.app/api/pin/?username=felipekjr&repo=volley-arena&theme=slateorange)](https://github.com/felipekjr/volley-arena)
-[![repo](https://github-readme-stats.vercel.app/api/pin/?username=felipekjr&repo=podfy&theme=midnight-purple)](https://github.com/felipekjr/podfy)
-
 ## Github Stats
  
  <a href="https://github.com/felipekjr">
