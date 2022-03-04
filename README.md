@@ -1,8 +1,19 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Felipe Rodrigues</h1>
+<p align="center">
+ <img width="100px" src="https://github.com/hendrasob/hendrasob/blob/master/assets/github.gif" align="center" alt="Hendrasob's GitHub Readme" />
+ <h2 align="center">Felipe Rodrigues | @felipekjr</h2>
+ <p align="center">Senior Flutter Engineer</p>
+ <p align="center"> https://www.linkedin.com/in/felipekjr/</p>
+</p>
+
+## Hello, there
 
 I’m a Mobile Software Engineer who helps to solve market challenges since 2017, currently focused on building innovative apps with Flutter. Skills in UI/UX, SCRUM, Squad Leadership and etc.
 
-Before that, i worked as a FullStack Developer on several projects and technologies and databases such as: Angular 2+, .NET 5, Spring Boot, PostgreSQL, SQL Server and Oracle.
+## Hot flutter repos
 
-📫 How to reach me: https://www.linkedin.com/in/felipekjr/
-
+## Github Stats
+ 
+ <a href="https://github.com/felipekjr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipekjr&theme=midnight-purple&show_icons=true" />
+</a> 
+ 
