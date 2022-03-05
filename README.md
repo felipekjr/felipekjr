@@ -18,9 +18,9 @@ class Felipe {
 }
 ```
 
-## Hello, there
+## My hot flutter repo
 
-I’m a Mobile Software Engineer who helps to solve market challenges since 2017, currently focused on building innovative apps with Flutter. Skills in UI/UX, SCRUM, Squad Leadership and etc.
+[![FirstAppKotlin](https://github-readme-stats.vercel.app/api/pin/?username=felipekjr&repo=volley_arena&theme=nord)](https://github.com/felipekjr/volley_arena)
 
 ## Github Stats
  
