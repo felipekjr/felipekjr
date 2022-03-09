@@ -21,10 +21,3 @@ class Felipe {
 ## My hot flutter repo
 
 [![FirstAppKotlin](https://github-readme-stats.vercel.app/api/pin/?username=felipekjr&repo=volley_arena&theme=nord)](https://github.com/felipekjr/volley_arena)
-
-## Github Stats
- 
- <a href="https://github.com/felipekjr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipekjr&theme=nord&show_icons=true" />
-</a> 
- 
