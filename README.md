@@ -9,7 +9,7 @@ class Felipe {
   String birth = '26th-november';
   
   List<String> skills = ['Flutter'];
-  List<String> languages = ['Dart'];
+  List<String> languages = ['Dart', 'JavaScript', 'Java', 'C#'];
   
   Map<String, String> contact = {
     'linkedin': '@felipekjr',
