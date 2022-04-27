@@ -1,6 +1,5 @@
 <p align="center">
- <img width="100px" src="https://github.com/hendrasob/hendrasob/blob/master/assets/github.gif" align="center" alt="Hendrasob's GitHub Readme" />
- <h2 align="center">Felipe Rodrigues | @felipekjr</h2>
+ <h2 align="center">Felipe Rodrigues | @felipekjr 👨‍💻</h2>
  <p align="center">Senior Flutter Engineer</p>
 </p>
 
