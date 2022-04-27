@@ -1,5 +1,5 @@
 <p align="center">
- <h2 align="center">Felipe Rodrigues | @felipekjr 👨‍💻</h2>
+ <h2 align="center">Felipe Rodrigues | @felipekjr</h2>
  <p align="center">Senior Flutter Engineer</p>
 </p>
 
