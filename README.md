@@ -12,7 +12,8 @@ class Felipe {
   List<String> languages = ['Dart', 'JavaScript', 'Java', 'C#'];
   
   Map<String, String> contact = {
-    'linkedin': '@felipekjr',
+    'linkedin': 'linkedin.com/in/felipekjr/',
+    'email': 'felipekjr@gmail.com'
   };
 }
 ```
