@@ -8,7 +8,7 @@ class Felipe {
   String name = 'Felipe Rodrigues';
   String birth = '26th-november';
   
-  List<String> skills = ['Flutter', 'Leadership', 'Creativity'];
+  List<String> skills = ['Flutter', 'Leadership', 'Creativity', 'UX/UI'];
   List<String> languages = ['Dart', 'JavaScript', 'Java', 'C#'];
   
   Map<String, String> contact = {
