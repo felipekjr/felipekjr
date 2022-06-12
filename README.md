@@ -17,7 +17,3 @@ class Felipe {
   };
 }
 ```
-
-## My hot flutter repo
-
-[![FirstAppKotlin](https://github-readme-stats.vercel.app/api/pin/?username=felipekjr&repo=billy&theme=nord  )](https://github.com/felipekjr/billy)
