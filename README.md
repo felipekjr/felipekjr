@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 #### I'm a Mobile Software Engineer living in Brazil.
-Currently crafting apps with Flutter 💙 at Claro Pay
+Currently working as Flutter Senior at Claro Pay
 
 <a href='https://www.linkedin.com/in/felipekjr/'>
     <img width="26" height="26" src="https://img.icons8.com/metro/26/000000/linkedin.png"/>
